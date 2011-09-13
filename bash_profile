@@ -1,3 +1,5 @@
+# ~/.bash_profile: executed by bash(1) for login shells.
+
 # Useful Aliases
 alias ls='ls --color=always'
 
