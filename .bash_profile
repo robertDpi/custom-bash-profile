@@ -1,5 +1,9 @@
 # ~/.bash_profile: executed by bash(1) for login shells.
 
+# Custom bash prompt (bit.ly/qPXkAD)
+# Format: 'user@host:directory $'
+PS1='\u@\h:\W $'
+
 # Useful aliases
 alias ls='ls --color=always'
 
