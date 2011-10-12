@@ -2,7 +2,7 @@
 
 # Custom bash prompt (bit.ly/qPXkAD)
 # Format: 'user@host:directory $'
-PS1='\u@\h:\W $'
+PS1='\u@\h:\W$ '
 
 # Useful aliases
 alias ls='ls --color=always'
